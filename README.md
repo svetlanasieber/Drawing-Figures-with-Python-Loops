@@ -1,4 +1,6 @@
 # Drawing-Figures-with-Loops
+# All Tasks are validated in the SoftUni Judge system: judge.softuni.org
+
 ![software-university-logo-2D117356A9-seeklogo com](https://github.com/svetlanasieber/Drawing-Figures-with-Loops/assets/135451084/132621ee-7735-40b2-806d-87b4143afce8)
 
 
